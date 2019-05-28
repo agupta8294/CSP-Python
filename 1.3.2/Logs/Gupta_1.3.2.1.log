@@ -1,0 +1,23 @@
+# IPython log file
+
+%logstart -ort 1.3.2/logs/Last_1.3.2.#.log
+# Fri, 07 Dec 2018 21:01:45
+%run 1.3.2/Last_1.3.2.py #runs your code from the editor
+# Fri, 07 Dec 2018 21:02:09
+%run 1.3.2/Gupta_1.3.2.py
+# Fri, 07 Dec 2018 21:03:07
+%run 1.3.2/Gupta_1.3.2.py
+# Fri, 07 Dec 2018 21:05:00
+# no 12 answer they used if/else/elseif blocks
+# Fri, 07 Dec 2018 21:14:03
+a = add_tip(20, 0.15) 
+# Fri, 07 Dec 2018 21:14:05
+a
+#[Out]# 23.0
+# Fri, 07 Dec 2018 21:14:13
+add_tip(30, 0.15) 
+#[Out]# 34.5
+# Fri, 07 Dec 2018 21:17:05
+%run 1.3.2/Gupta_1.3.2.py
+# Fri, 07 Dec 2018 21:21:27
+%run 1.3.2/Gupta_1.3.2.py
